@@ -135,6 +135,179 @@ flowchart TD
     L1 --> N1
     N1 --> O1[Responder JSON Final via Webhook]
 ```
+[
+  {
+    "nicho": "Saúde 50+ weak legs",
+    "data_analise": "2025-10-16",
+    "ideias": [
+      {
+        "titulo": "O ÚNICO Exercício que Você Precisa Fazer Sentado para Blindar os Joelhos (Após os 50)",
+        "score": 95,
+        "justificativa": "O formato 'ONE Incredible Exercise' é um dos mais virais na lista. Focar em um exercício 'sentado' atende a uma dor específica de mobilidade reduzida, tornando-o altamente relevante.",
+        "palavras_chave": [
+          "exercício para joelhos",
+          "fortalecer pernas sentado",
+          "saúde 50+"
+        ],
+        "concorrencia": "média"
+      },
+      {
+        "titulo": "PARE de Perder Músculos nas Pernas: Os 5 Erros de Nutrição Mais Comuns Após os 60",
+        "score": 92,
+        "justificativa": "Combina o tema de 'muscle loss' (sarcopenia) com o formato de 'erros' e 'listas', que gera curiosidade. O vídeo sobre nutrição teve bom engajamento, validando o tema.",
+        "palavras_chave": [
+          "perda muscular",
+          "nutrição para idosos",
+          "sarcopenia"
+        ],
+        "concorrencia": "média"
+      },
+      {
+        "titulo": "Suas Pernas Estão Fracas? A Causa Pode Estar nos Seus Pés (Resolva com 2 Exercícios)",
+        "score": 88,
+        "justificativa": "Usa uma pergunta direta para engajar e introduz uma causa surpreendente (pés), gerando curiosidade. Nenhum vídeo na lista foca nos pés como a causa da fraqueza nas pernas.",
+        "palavras_chave": [
+          "pernas fracas",
+          "exercícios para os pés",
+          "equilíbrio idosos"
+        ],
+        "concorrencia": "baixa"
+      },
+      {
+        "titulo": "3 Vitaminas Essenciais que Devolvem a Força das Suas Pernas (Comprovado pela Ciência)",
+        "score": 85,
+        "justificativa": "Vídeos sobre vitaminas e alimentos específicos aparecem na lista, indicando interesse. O formato de lista numérica ('3 Vitaminas') é altamente eficaz e pouco explorado nos vídeos de maior sucesso.",
+        "palavras_chave": [
+          "vitaminas para idosos",
+          "fortalecer pernas",
+          "fraqueza muscular"
+        ],
+        "concorrencia": "baixa"
+      },
+      {
+        "titulo": "O Segredo dos Fisioterapeutas: 1 Exercício para Quadril que Fortalece as Pernas Inteiras",
+        "score": 90,
+        "justificativa": "O apelo à autoridade ('Segredo dos Fisioterapeutas') e o formato '1 Exercício' são muito fortes. O foco no quadril como solução para as pernas é um tema recorrente e de alta concorrência.",
+        "palavras_chave": [
+          "exercício para quadril",
+          "dor no quadril",
+          "pernas fortes"
+        ],
+        "concorrencia": "alta"
+      },
+      {
+        "titulo": "Por que Suas Pernas Tremem? (E como firmá-las em 5 minutos por dia)",
+        "score": 87,
+        "justificativa": "Aborda um sintoma muito específico ('pernas tremem') que gera busca. O formato 'Por que... e como resolver' é um padrão de sucesso identificado na análise dos vídeos.",
+        "palavras_chave": [
+          "pernas tremendo",
+          "fraqueza nas pernas",
+          "exercícios de 5 minutos"
+        ],
+        "concorrencia": "média"
+      },
+      {
+        "titulo": "A Verdade Sobre a Sarcopenia: 4 Hábitos Diários para Reverter a Perda Muscular",
+        "score": 93,
+        "justificativa": "Sarcopenia e perda muscular são termos que aparecem nas tags de sucesso. Combinar isso com uma lista de 'hábitos' é uma fórmula poderosa e uma variação do tema de exercícios.",
+        "palavras_chave": [
+          "sarcopenia",
+          "reverter perda muscular",
+          "hábitos saudáveis"
+        ],
+        "concorrencia": "média"
+      },
+      {
+        "titulo": "O Melhor Agachamento para Maiores de 50 (Seguro para Joelhos e Coluna)",
+        "score": 89,
+        "justificativa": "O vídeo 'Over‑50 Squat Routine' teve sucesso. Esta ideia foca no mesmo exercício, mas com um apelo forte à segurança, uma grande preocupação para o público e um diferencial competitivo.",
+        "palavras_chave": [
+          "agachamento para idosos",
+          "exercício seguro joelhos",
+          "fortalecer pernas"
+        ],
+        "concorrencia": "alta"
+      },
+      {
+        "titulo": "Aumente a Densidade Óssea e a Força nas Pernas com UM ÚNICO Movimento",
+        "score": 91,
+        "justificativa": "O tema 'densidade óssea' aparece nas tags de um vídeo viral. Combiná-lo com o formato de sucesso 'UM ÚNICO Movimento' tem alto potencial por unir dois benefícios em uma solução simples.",
+        "palavras_chave": [
+          "densidade óssea",
+          "osteoporose exercícios",
+          "pernas fortes"
+        ],
+        "concorrencia": "média"
+      },
+      {
+        "titulo": "7 Minutos para Pernas Mais Fortes e Equilíbrio de Aço (Rotina para 55+)",
+        "score": 86,
+        "justificativa": "O vídeo '7 Minute!' mostra que rotinas rápidas atraem o público. Focar nos benefícios duplos de força e equilíbrio é um padrão de sucesso, embora em um segmento competitivo.",
+        "palavras_chave": [
+          "exercícios para equilíbrio",
+          "treino de 7 minutos",
+          "pernas fortes idosos"
+        ],
+        "concorrencia": "alta"
+      },
+      {
+        "titulo": "Os 3 Piores Alimentos que Enfraquecem Suas Pernas Após os 50",
+        "score": 94,
+        "justificativa": "Títulos negativos ('Piores', 'Erros') geram alta curiosidade. O tema de nutrição é recorrente e esta abordagem, focando no que evitar, é única na lista fornecida.",
+        "palavras_chave": [
+          "alimentos inflamatórios",
+          "fraqueza muscular",
+          "saúde 50+"
+        ],
+        "concorrencia": "baixa"
+      },
+      {
+        "titulo": "Desbloqueie seu Quadril e Acabe com a Fraqueza nas Pernas (Guia para Iniciantes)",
+        "score": 88,
+        "justificativa": "A conexão entre quadril e força nas pernas é um tema recorrente nos vídeos de fisioterapeutas. O formato de comando 'Desbloqueie... e Acabe' é forte, mas o tema é bem coberto.",
+        "palavras_chave": [
+          "mobilidade do quadril",
+          "dor no quadril",
+          "pernas fracas"
+        ],
+        "concorrencia": "alta"
+      },
+      {
+        "titulo": "ALERTA! Este Hábito Matinal Está Deixando Suas Pernas Fracas",
+        "score": 96,
+        "justificativa": "O vídeo de maior sucesso começa com 'WARNING!'. Este título emula esse padrão, criando urgência e curiosidade sobre um hábito específico, um ângulo não explorado nos dados.",
+        "palavras_chave": [
+          "pernas fracas",
+          "hábitos matinais",
+          "saúde do idoso"
+        ],
+        "concorrencia": "baixa"
+      },
+      {
+        "titulo": "Como Ganhar Força nas Pernas Sem Usar Pesos (3 Exercícios Essenciais)",
+        "score": 85,
+        "justificativa": "Muitos vídeos de sucesso focam em treinos em casa. Atender ao público que não tem equipamentos é uma estratégia validada, embora seja um nicho com muita concorrência.",
+        "palavras_chave": [
+          "exercícios sem equipamento",
+          "fortalecer pernas em casa",
+          "treino para idosos"
+        ],
+        "concorrencia": "alta"
+      },
+      {
+        "titulo": "A Causa Nº1 de Quedas em Idosos (E o Exercício Simples para Prevenir)",
+        "score": 92,
+        "justificativa": "Prevenção de quedas ('falls') é uma palavra-chave e uma dor fundamental para o público. Apontar a 'Causa Nº1' cria autoridade e urgência em um tema relacionado, mas não idêntico, aos vídeos de topo.",
+        "palavras_chave": [
+          "prevenção de quedas",
+          "exercícios de equilíbrio",
+          "segurança do idoso"
+        ],
+        "concorrencia": "média"
+      }
+    ]
+  }
+]
 
 <img width="1715" height="651" alt="image" src="https://github.com/user-attachments/assets/ab33cc73-9581-499d-b5d8-789951080256" />
 
