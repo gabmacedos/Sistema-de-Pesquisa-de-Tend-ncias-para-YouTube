@@ -135,3 +135,6 @@ flowchart TD
     L1 --> N1
     N1 --> O1[Responder JSON Final via Webhook]
 ```
+
+<img width="1715" height="651" alt="image" src="https://github.com/user-attachments/assets/ab33cc73-9581-499d-b5d8-789951080256" />
+
